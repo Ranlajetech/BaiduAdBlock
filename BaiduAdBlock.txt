@@ -1,3 +1,5 @@
+! Title: BaiduAdBlock
+
 ! 底栏
 www.baidu.com###bottom_layer
 ! 天气
