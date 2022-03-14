@@ -1,0 +1,93 @@
+! 底栏
+www.baidu.com###bottom_layer
+! 天气
+www.baidu.com##.weather-mod
+
+! 下方广告
+fanyi.baidu.com##.cleafix.footer
+! 顶栏
+fanyi.baidu.com##.header
+! 人工翻译按钮
+fanyi.baidu.com##.manual-trans-btn
+! 文本领域选择按钮
+fanyi.baidu.com##.domain-trans-wrapper-inner
+! 收藏按钮
+fanyi.baidu.com##.new-edition-tip.data-hover-tip.collection-btn
+
+! 秒懂百科视频
+baike.baidu.com##.J-secondsknow-large-container.secondsknow-large-container
+! 右侧弹窗1
+baike.baidu.com##.share-list
+! 右侧弹窗2
+baike.baidu.com###J-task-tip
+! 防骗提示
+baike.baidu.com###J-declare
+! 顶栏
+baike.baidu.com##.navbar-wrapper
+! TA说
+baike.baidu.com###tashuo_right
+! 底栏
+baike.baidu.com##.wgt-footer-main
+! 页背景
+baike.baidu.com##.page-background
+
+! 顶栏
+zhidao.baidu.com##.nav-show-control
+! 热议
+zhidao.baidu.com##.text-chain-wrapper
+! 右侧弹窗打开按钮
+zhidao.baidu.com##.task-list-button
+! 右侧弹窗主体
+zhidao.baidu.com##.task-panel
+! 右侧弹窗滤镜
+zhidao.baidu.com##.shadow-show
+! 右侧弹窗弹出后按钮
+zhidao.baidu.com##.open.task-list-button
+
+! 申请认证按钮
+zhidao.baidu.com##.jump-top-box
+! 底栏
+zhidao.baidu.com##.wgt-footer-new
+
+! 顶栏
+jingyan.baidu.com##.nav
+! 右侧广告栏
+jingyan.baidu.com###aside
+! 右侧收藏、转发按钮
+jingyan.baidu.com##.wrp-exp-share
+! 右侧弹窗打开按钮
+jingyan.baidu.com###task-panel-wrap
+! 底栏
+jingyan.baidu.com##.footer
+
+! 顶栏工具
+wenku.baidu.com##.search-tab-wrap
+! 顶栏vip活动按钮
+wenku.baidu.com##.vip-activity-wrap-new
+! 顶栏客户端下载按钮
+wenku.baidu.com##.client-download-wrap
+! 顶栏看过按钮
+wenku.baidu.com##.browse-history-wrap
+! 右侧vip卡片
+wenku.baidu.com##.vip-privilege.vip-privilege-card-wrap
+! 右侧广告卡片
+wenku.baidu.com##.woniu-guide-card
+! 底栏 & ...
+wenku.baidu.com###app > .lazy-load
+! 底部工具栏
+wenku.baidu.com##.fade-in.wk-web-4774.tool-bar-wrapper
+! 文章上方甄选提示
+wenku.baidu.com##.zhenxuan-guide
+
+! 吧主题图片
+tieba.baidu.com###forum-card-banner
+! 右侧会员卡片
+tieba.baidu.com##.celebrity.aside_region
+! 右侧下载客户端卡片
+tieba.baidu.com##.app_download_box.aside_region
+! 顶栏官方号服务中心按钮
+tieba.baidu.com##.u_official
+! 顶栏会员按钮
+tieba.baidu.com##.u_member
+! 右侧悬浮按钮
+tieba.baidu.com##.tbui_aside_float_bar
